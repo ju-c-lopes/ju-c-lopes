@@ -1,4 +1,4 @@
-# Hello <img src="https://i.imgur.com/wsfoqg4.gif" alt="World" title="World" width="40" /> ! <img src="https://i.imgur.com/C3zYww2.png" align="right" width="80"/>
+# Hello <img src="https://i.imgur.com/wsfoqg4.gif" alt="World" title="World" width="40" /> ! <img src="https://i.imgur.com/C3zYww2.png" align="right" width="150"/>
 
 <img src="https://i.imgur.com/65UAniY.png" alt="Juliano" title="Juliano" width="150" align="right">
 
