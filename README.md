@@ -45,6 +45,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ju-c-lopes&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <hr><br>
+  
 ![Snake animation](https://github.com/ju-c-lopes/ju-c-lopes/blob/output/github-contribution-grid-snake.svg)
 
 
