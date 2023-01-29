@@ -2,10 +2,10 @@
 
 <img src="https://i.imgur.com/65UAniY.png" alt="Juliano" title="Juliano" width="150" align="right">
 
-- :raising_hand: I'm Juliano, 41 years old.
-- :school: I'm a student, in love with web development area
+- :raising_hand: I'm Juliano, 42 years old.
+- :school: I'm a student, in love with web development area, but now focusing in studying about data analysis and data science.
 - :computer: Intern on [rocky.monks](https://rocky.ag) as a SEO Analyst
-- :house: I have studied many technologies like:<br><br>
+- :house: I have studied technologies like:<br><br>
 &Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
 &Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
 &Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -15,12 +15,7 @@
 &Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
 &Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
 &Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
-- :book: Other technologies I'm studying:<br><br>
-&Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
-&Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
-&Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
-&Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
-&Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
+
 <hr>
 <div align=center>
   <a href="https://www.linkedin.com/in/juliano-lopes-votorantim-sp/" target="_blank">
@@ -28,9 +23,6 @@
   </a>
   <a href="https://github.com/ju-c-lopes" target="_blank">
     <img src="https://img.shields.io/badge/Github-292929?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-  </a>
-  <a href="https://twitter.com/JuCLops" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-0099FF?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
   </a> 
   <a href="https://instagram.com/ju.c.lopes/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E41C6F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
