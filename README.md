@@ -21,9 +21,6 @@
   <a href="https://www.linkedin.com/in/juliano-lopes-votorantim-sp/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="https://github.com/ju-c-lopes" target="_blank">
-    <img src="https://img.shields.io/badge/Github-292929?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-  </a> 
   <a href="https://instagram.com/ju.c.lopes/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E41C6F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
