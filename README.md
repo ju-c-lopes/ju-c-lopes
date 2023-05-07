@@ -3,8 +3,8 @@
 <img src="https://i.imgur.com/65UAniY.png" alt="Juliano" title="Juliano" width="150" align="right">
 
 - :raising_hand: I'm Juliano, 42 years old.
-- :school: I'm a student, in love with web development area, but now focusing in studying about data analysis and data science.
-- :computer: Intern on [rocky.monks](https://rocky.ag) as a SEO Analyst
+- :school: I'm a student, focused on studying about data analysis and data science, loving the data world, and also learnig about web development.
+- :computer: Intern on [br.monks](https://rocky.ag) as a SEO Analyst
 - :house: I have studied technologies like:<br><br>
 &Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
 &Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
