@@ -10,8 +10,8 @@
 &Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
 &Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
 &Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
-&Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
-&Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" /><br><br>
+&Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br><br>
+&Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
 &Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
 &Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
 &Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
