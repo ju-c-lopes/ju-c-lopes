@@ -3,19 +3,24 @@
 <img src="https://i.imgur.com/65UAniY.png" alt="Juliano" title="Juliano" width="150" align="right">
 
 - :raising_hand: I'm Juliano, 43 years old.
-- :school: I'm a student, focused on studying about data analysis and data science, loving the data world, and also learnig about web development.
-- :computer: Working at [media.monks](https://rocky.ag) as a SEO Analyst
+- :school: I'm a student, graduated in Information Technology Bachelor at [Univesp](https://univesp.br/), and now I'm doing a postgraduate degree in Software Architecture at [Fiap](https://postech.fiap.com.br/).
+- :computer: Working at [Brasil Monks](https://www.monks.com/pt) as a SEO Analyst
 - :house: I have studied technologies like:<br><br>
-&Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
-&Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
-&Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
-&Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
+&Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp; 
+&Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp; 
+&Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp; 
+&Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp; 
 &Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br><br>
-&Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
-&Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
-&Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
-&Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
-&Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> &nbsp;&nbsp;&nbsp;&nbsp;          
+&Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp; 
+&Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /> &nbsp;&nbsp;&nbsp; 
+&Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp;
+&Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp; 
+&Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /><br><br>
+&Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp;
+&Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp;
+&Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp;
+&Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vagrant/vagrant-original-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp;
+&Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp;
 
 <hr>
 <div align=center>
