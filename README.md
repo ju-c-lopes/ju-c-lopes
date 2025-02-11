@@ -2,8 +2,8 @@
 
 <img src="https://i.imgur.com/65UAniY.png" alt="Juliano" title="Juliano" width="150" align="right">
 
-- :raising_hand: I'm Juliano, 43 years old.
-- :school: I'm a student, graduated in Information Technology Bachelor at [Univesp](https://univesp.br/), and now I'm doing a postgraduate degree in Software Architecture at [Fiap](https://postech.fiap.com.br/).
+- :raising_hand: I'm Juliano, 44 years old.
+- :school: I'm a student, graduated in Information Technology Bachelor at [Univesp](https://univesp.br/), and now I'm Graduating in Software Architecture at [Fiap](https://postech.fiap.com.br/).
 - :computer: Working at [Brasil Monks](https://www.monks.com/pt) as a SEO Analyst
 - :house: I have studied technologies like:<br><br>
 &Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp; 
