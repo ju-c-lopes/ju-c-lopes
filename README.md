@@ -100,6 +100,6 @@ Hoje, canalizo essa visão em projetos que unem **backend, pipelines CI/CD e clo
 </div>
 ---
 
-<img src="https://s3.tebi.io/images-juclops/stars.gif" width="100%">
+<img src="https://s3.tebi.io/images-juclops/stars.gif" width="1400">
 
 <!-- <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a> -->
