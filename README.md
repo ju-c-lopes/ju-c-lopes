@@ -17,7 +17,7 @@ Today, I bring that same mindset into building **APIs, CI/CD pipelines, and clou
 
 [ :brazil: Versão em Português](#)
 
-Olá, :raising*hand:, me chamo ***Juliano Lopes**\_, sou desenvolvedor backend e entusiasta de infraestrutura e automação.
+Olá, :raising_hand_man:, me chamo _**Juliano Lopes**_, sou desenvolvedor backend e entusiasta de infraestrutura e automação.
 
 Conforme fui aprendendo e mergulhando cada vez mais no universo do código, tive a oportunidade de atuar no **SEO técnico**, onde aprendi a enxergar sistemas não apenas como código, mas como **ecossistemas de performance e experiência(UX)**.
 
