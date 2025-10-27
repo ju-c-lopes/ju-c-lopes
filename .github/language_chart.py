@@ -19,4 +19,4 @@ plt.pie(
     list(langs.values()), labels=list(langs.keys()), autopct="%1.1f%%", startangle=140
 )
 plt.title("Languages Distribution")
-plt.savefig(".github/languages.png")
+plt.savefig("languages.png")
