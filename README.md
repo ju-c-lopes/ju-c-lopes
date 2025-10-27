@@ -81,7 +81,7 @@ Hoje, canalizo essa visão em projetos que unem **backend, pipelines CI/CD e clo
 
 ## 📊 Language Distribution
 
-![Languages](.github/languages.png)
+![Languages](languages.png)
 
 ---
 
