@@ -16,3 +16,7 @@
 &Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp;
 &Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vagrant/vagrant-original-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp;
 &Tab; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" width="40" /> &nbsp;&nbsp;&nbsp;
+
+<div align="center">
+    <img alt="Visitor Stats" src="https://widgetbite.com/stats/ju-c-lopes"/>  
+</div>

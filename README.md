@@ -4,6 +4,7 @@
 
 <img src="https://i.imgur.com/65UAniY.png" alt="Juliano Lopes in a drawing style" title="Juliano Lopes" width="150" align="right">
 <img src="https://i.imgur.com/C3zYww2.png" align="right" width="150"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ju-c-lopes" align="right" title="visitors">
 
 [ :us: English Version](#)
 
@@ -58,7 +59,7 @@ Hoje, canalizo essa visão em projetos que unem **backend, pipelines CI/CD e clo
 | --- | --- | --- |
 | [Aplicação <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" alt="django framework" title="aplicação django" width="100" />](https://github.com/ju-c-lopes/aplicacao-django) | A _**full-stack Django application**_ featuring CI/CD,<br>containerization, and automated testing.<br>This is a web application for managing classes taught<br>according to the requirements of the *São Paulo's Curriculum*<br>The project can be accessed in this link below:<br>[https://aplicacao-django.fly.dev/](https://aplicacao-django.fly.dev/) | <img src="https://i.imgur.com/s03orM5.gif" width="250" /> |
 | [Santander BootCamp](https://github.com/ju-c-lopes/santander-bootcamp-dio) [DIO](https://web.dio.me/)<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" /> | A challenge for create a **Swagger** documentation to save user data in database | <img src="https://i.imgur.com/7tUJrQL.png" width="800"> |
-| [Blog Platform<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />](https://github.com/ju-c-lopes/model-blog-platform) | A project whose goal is being a platform to create posts for a website, building the templates, their components and providing informations through optimized SEO posts | <img src="https://raw.githubusercontent.com/ju-c-lopes/model-blog-platform/refs/heads/main/website/static/img/pass-valid.gif" width="200" > |
+| [Blog Platform<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />](https://github.com/ju-c-lopes/model-blog-platform) | A project whose goal is being a platform to create posts for a website, building the templates, their components and providing informations through optimized SEO posts | <img src="https://s3.tebi.io/images-juclops/pass-valid.gif" width="200" > |
 
 
 ### :building_construction: Infrastructure & DevOps
@@ -76,10 +77,10 @@ Hoje, canalizo essa visão em projetos que unem **backend, pipelines CI/CD e clo
 ### :art: Creative & Technical Content
 
 -   :studio_microphone: [RockTech podcast - Código Pesado](https://github.com/ju-c-lopes/podcast-codigo-pesado)
-    <img src="https://raw.githubusercontent.com/ju-c-lopes/podcast-codigo-pesado/main/img/narrador.png" width="50" align="center">
+    <img src="https://s3.tebi.io/images-juclops/narrador.png" width="50" align="center">
 
 -   Mini ebook - [Entre Portas e Túneis](https://github.com/ju-c-lopes/ebook-ssh): Além dos horizontes do SSH Login
-    <img src="https://raw.githubusercontent.com/ju-c-lopes/ebook-ssh/main/assets/ebook-portas-e-tuneis.png" width="50" align="center">
+    <img src="https://s3.tebi.io/images-juclops/SSH-Book.png" width="50" align="center">
 
 ## 📊 Language Distribution
 
@@ -95,14 +96,8 @@ Hoje, canalizo essa visão em projetos que unem **backend, pipelines CI/CD e clo
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
-<img src="https://i.imgur.com/qMzSloL.gif" alt="Constellation animation" width="100%">
-
-
-<div align="center">
-    <img alt="Visitor Stats" src="https://widgetbite.com/stats/ju-c-lopes"/>  
-</div>
-
-
 ---
+
+<img src="https://s3.tebi.io/images-juclops/stars.gif" width="100%">
 
 <!-- <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a> -->

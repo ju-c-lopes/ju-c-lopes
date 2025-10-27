@@ -13,10 +13,17 @@ for repo in repos:
     if lang:
         langs[lang] = langs.get(lang, 0) + 1
 
-# Gera o gráfico
-plt.figure(figsize=(6, 6))
-plt.pie(
-    list(langs.values()), labels=list(langs.keys()), autopct="%1.1f%%", startangle=140
-)
-plt.title("Languages Distribution")
-plt.savefig("languages.png")
+# Sort languages by count
+sorted_langs = sorted(langs.items(), key=lambda item: item[1])
+languages = [item[0] for item in sorted_langs]
+counts = [item[1] for item in sorted_langs]
+
+# Generate the horizontal bar chart
+plt.figure(figsize=(10, 8))
+plt.barh(languages, counts, color="skyblue")
+plt.xlabel("Number of Repositories", color="white")
+plt.title("Languages Distribution", color="white")
+plt.tick_params(axis="x", colors="white")
+plt.tick_params(axis="y", colors="white")
+plt.tight_layout()
+plt.savefig("languages.png", transparent=True)
