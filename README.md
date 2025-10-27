@@ -105,6 +105,8 @@ Hoje, canalizo essa visão em projetos que unem **backend, pipelines CI/CD e clo
     <img alt="Visitor Stats" src="https://widgetbite.com/stats/ju-c-lopes"/>  
 </div>
 
-<!-- <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a> -->
-
 <img src="https://i.imgur.com/qMzSloL.gif" alt="Constellation animation" width="100%">
+
+---
+
+<!-- <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a> -->
