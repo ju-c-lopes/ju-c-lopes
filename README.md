@@ -93,19 +93,13 @@ Hoje, canalizo essa visão em projetos que unem **backend, pipelines CI/CD e clo
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
+<img src="https://i.imgur.com/qMzSloL.gif" alt="Constellation animation" width="100%">
 
----
-
-<div align=center>
-  <a href="https://github.com/ju-c-lopes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ju-c-lopes&layout=compact&langs_count=7&theme=dark"/>
-</div><br>
 
 <div align="center">
     <img alt="Visitor Stats" src="https://widgetbite.com/stats/ju-c-lopes"/>  
 </div>
 
-<img src="https://i.imgur.com/qMzSloL.gif" alt="Constellation animation" width="100%">
 
 ---
 
