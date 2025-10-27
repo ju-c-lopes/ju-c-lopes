@@ -7,7 +7,7 @@
 
 [ :us: English Version](#)
 
-Hi, :raising*hand:, I'm ***Juliano Lopes**\_, a backend developer passionate about infrastructure and automation.
+Hi, :raising_hand_man:, I'm _**Juliano Lopes**_, a backend developer passionate about infrastructure and automation.
 
 As I kept learning and diving deeper into the world of code, I had the opportunity to work in **technical SEO**, where I learned to see systems not just as software, but as **living ecosystems of performance and experience(UX)**.
 
