@@ -1,10 +1,7 @@
 # Hello <img src="https://i.imgur.com/wsfoqg4.gif" alt="Hello World 🌍" title="Hello, World!" width="40" /> !
 
----
-
 <img src="https://i.imgur.com/65UAniY.png" alt="Juliano Lopes in a drawing style" title="Juliano Lopes" width="150" align="right">
 <img src="https://i.imgur.com/C3zYww2.png" align="right" width="150"/>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ju-c-lopes" align="right" title="visitors">
 
 [ :us: English Version](#)
 
@@ -33,12 +30,6 @@ Hoje, canalizo essa visão em projetos que unem **backend, pipelines CI/CD e clo
 
 ---
 
-
-
-
-
-
-
 <!--STATS-START-->
 ### 📊 **GitHub Stats**
 - 👥 Followers: **`91`**
@@ -47,12 +38,6 @@ Hoje, canalizo essa visão em projetos que unem **backend, pipelines CI/CD e clo
 - 💬 Most used languages: **`Python, HTML, JavaScript`**
 - 🕓 Latest update: **`2025-10-27 14:15 UTC`**
 <!--STATS-END-->
-
-
-
-
-
-
 
 ---
 
@@ -72,23 +57,29 @@ Hoje, canalizo essa visão em projetos que unem **backend, pipelines CI/CD e clo
 
 ### :building_construction: Infrastructure & DevOps
 
--   Cluster Kubernetes com Terraform (EKS)
--   Pipelines GitHub Actions (`infra-deploy.yaml`, `k8s-deploy.yaml`)
--   Scripts de automação Bash e Python para deploy e monitoramento
+| | | |
+| --- | --- | --- |
+| Cluster Kubernetes com Terraform (EKS)|  |  |
+| Pipelines GitHub Actions (`infra-deploy.yaml`, `k8s-deploy.yaml`) |  | |
+| Scripts de automação Bash e Python para deploy e monitoramento |  |  |
 
 ### :construction: Architecture & microservices (Tech Challenge)
 
+| | | |
+| --- | --- | --- |
+
 ### :hammer_and_wrench: Studies & Prototypes
 
--   AluraCord
+| | | |
+| --- | --- | --- |
+| AluraCord | | |
 
 ### :art: Creative & Technical Content
 
--   :studio_microphone: [RockTech podcast - Código Pesado](https://github.com/ju-c-lopes/podcast-codigo-pesado)
-    <img src="https://s3.tebi.io/images-juclops/narrador.png" width="50" align="center">
-
--   Mini ebook - [Entre Portas e Túneis](https://github.com/ju-c-lopes/ebook-ssh): Além dos horizontes do SSH Login
-    <img src="https://s3.tebi.io/images-juclops/SSH-Book.png" width="50" align="center">
+| | | |
+| --- | --- | --- |
+| :studio_microphone: [RockTech podcast - Código Pesado](https://github.com/ju-c-lopes/podcast-codigo-pesado) |  | <img src="https://s3.tebi.io/images-juclops/narrador.png" width="80" align="center"> |
+| Mini ebook - [Entre Portas e Túneis](https://github.com/ju-c-lopes/ebook-ssh): Além dos horizontes do SSH Login |  | <img src="https://s3.tebi.io/images-juclops/SSH-Book.png" width="80" align="center"> |
 
 ## 📊 Language Distribution
 

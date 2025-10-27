@@ -22,14 +22,14 @@ total_repos = sum(counts)
 # Generate the horizontal bar chart
 plt.figure(figsize=(10, 8))
 plt.barh(languages, counts, color="skyblue")
-plt.xlabel("Number of Repositories", color="white")
-plt.title("Languages Distribution", color="white")
-plt.tick_params(axis="x", colors="white")
-plt.tick_params(axis="y", colors="white")
+plt.xlabel("Number of Repositories", color="#A9A9A9")
+plt.title("Languages Distribution", color="#A9A9A9")
+plt.tick_params(axis="x", colors="#A9A9A9")
+plt.tick_params(axis="y", colors="#A9A9A9")
 
 # Add percentage labels to each bar
 for i, v in enumerate(counts):
-    plt.text(v, i, f" {v/total_repos*100:.1f}%", color="white", va="center")
+    plt.text(v, i, f" {v/total_repos*100:.1f}%", color="#A9A9A9", va="center")
 
 plt.tight_layout()
 plt.savefig("languages.png", transparent=True)
