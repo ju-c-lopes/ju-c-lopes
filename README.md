@@ -92,13 +92,13 @@ Hoje, canalizo essa visão em projetos que unem **backend, pipelines CI/CD e clo
 ---
 
 <div align=center>
+  <img src="https://s3.tebi.io/images-juclops/stars.gif" width="100%"><br>
   <a href="https://www.linkedin.com/in/juliano-lopes-votorantim-sp/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href = "mailto:juliano.co.lopes@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <img src="https://s3.tebi.io/images-juclops/stars.gif" width="800">
 </div>
 
 <!-- <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a> -->
