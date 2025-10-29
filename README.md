@@ -30,12 +30,6 @@ Hoje, canalizo essa visão em projetos que unem **backend, pipelines CI/CD e clo
 
 ---
 
-
-
-
-
-
-
 <!--STATS-START-->
 ### 📊 **GitHub Stats**
 - 👥 Followers: **`92`**
@@ -44,12 +38,6 @@ Hoje, canalizo essa visão em projetos que unem **backend, pipelines CI/CD e clo
 - 💬 Most used languages: **`Python, HTML, JavaScript`**
 - 🕓 Latest update: **`2025-10-29 16:02 UTC`**
 <!--STATS-END-->
-
-
-
-
-
-
 
 ---
 
@@ -64,7 +52,7 @@ Hoje, canalizo essa visão em projetos que unem **backend, pipelines CI/CD e clo
 | --- | --- | --- |
 | [Aplicação <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" alt="django framework" title="aplicação django" width="100" />](https://github.com/ju-c-lopes/aplicacao-django) | A _**full-stack Django application**_ featuring CI/CD,<br>containerization, and automated testing.<br>This is a web application for managing classes taught<br>according to the requirements of the *São Paulo's Curriculum*<br>The project can be accessed in this link below:<br>[https://aplicacao-django.fly.dev/](https://aplicacao-django.fly.dev/) | <img src="https://i.imgur.com/s03orM5.gif" width="250" /> |
 | [Santander BootCamp](https://github.com/ju-c-lopes/santander-bootcamp-dio) [DIO](https://web.dio.me/)<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" /> | A challenge for create a **Swagger** documentation to save user data in database | <img src="https://i.imgur.com/7tUJrQL.png" width="800"> |
-| [Blog Platform<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />](https://github.com/ju-c-lopes/model-blog-platform) | A project whose goal is being a platform to create posts for a website, building the templates, their components and providing informations through optimized SEO posts | <img src="https://s3.tebi.io/images-juclops/pass-valid.gif" width="200" > |
+| [Blog Platform<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />](https://github.com/ju-c-lopes/model-blog-platform) | A project whose goal is being a platform to create posts for a website, building the templates, their components and providing informations through optimized SEO posts | <img src=".github/img/pass-valid.gif" width="200" > |
 
 
 ### :building_construction: Infrastructure & DevOps
@@ -100,13 +88,13 @@ Hoje, canalizo essa visão em projetos que unem **backend, pipelines CI/CD e clo
 ---
 
 <div align=center>
-  <img src="https://s3.tebi.io/images-juclops/stars.gif" width="100%"><br>
   <a href="https://www.linkedin.com/in/juliano-lopes-votorantim-sp/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href = "mailto:juliano.co.lopes@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
+  <img src=".github/img/stars.gif" width="100%"><br>
 </div>
 
 <!-- <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a> -->
