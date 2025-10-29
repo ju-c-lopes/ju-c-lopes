@@ -22,11 +22,11 @@ jobs:
                   pip install requests
                   pip install matplotlib
 
-            - name: Run script
-              run: python .github/update_readme.py
-
             - name: Generate language chart
               run: python .github/language_chart.py
+
+            - name: Run script
+              run: python .github/update_readme.py
 
             - name: Commit changes
               run: |
