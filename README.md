@@ -30,20 +30,6 @@ Hoje, canalizo essa visão em projetos que unem **backend, pipelines CI/CD e clo
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--STATS-START-->
 ### 📊 **GitHub Stats**
 - 👥 Followers: **`92`**
@@ -52,20 +38,6 @@ Hoje, canalizo essa visão em projetos que unem **backend, pipelines CI/CD e clo
 - 💬 Most used languages: **`Python, HTML, JavaScript`**
 - 🕓 Latest update: **`2025-11-12 06:20 UTC`**
 <!--STATS-END-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 
@@ -95,7 +67,7 @@ Hoje, canalizo essa visão em projetos que unem **backend, pipelines CI/CD e clo
 
 | | | |
 | --- | --- | --- |
-| [Microserviço Acompanhamento<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" width="60" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="60" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" />](https://github.com/ju-c-lopes/microservico-acompanhamento) | An academic project of Post-graduate,<br>Tech-challenge, that was a *lanchonete* platform, where this microservice<br>is the part of authentication of the projetc.<br><br>The whole project can be accessed here:<br>[Entrega final - Fase 4 Tech Challenge](https://drive.google.com/file/d/1ZKRrSVNt9pM5mLUV-pzPnzAVlE3vnF4L/view?usp=sharing)| <img src=".github/challenge.gif" width="300" /> |
+| [Microserviço Acompanhamento<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" width="60" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="60" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" />](https://github.com/ju-c-lopes/microservico-acompanhamento) | An academic project of Post-graduate,<br>Tech-challenge, that was a *lanchonete* platform, where this microservice<br>is the part of authentication of the projetc.<br><br>The whole project can be accessed here:<br>[Entrega final - Fase 4 Tech Challenge](https://drive.google.com/file/d/1ZKRrSVNt9pM5mLUV-pzPnzAVlE3vnF4L/view?usp=sharing)| <img src=".github/challenge.gif" width="500" /> |
 
 ### :hammer_and_wrench: Studies & Prototypes
 
