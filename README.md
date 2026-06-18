@@ -247,14 +247,16 @@ Hoje, canalizo essa visão em projetos que unem **backend, pipelines CI/CD e clo
 
 
 
+
 <!--STATS-START-->
 ### 📊 **GitHub Stats**
-- 👥 Followers: **`101`**
+- 👥 Followers: **`103`**
 - 📦 Public Repositories: **`100`**
 - 🌟 Earned stars: **`4`**
 - 💬 Most used languages: **`Python, HTML, JavaScript`**
-- 🕓 Latest update: **`2026-06-17 10:27 UTC`**
+- 🕓 Latest update: **`2026-06-18 10:07 UTC`**
 <!--STATS-END-->
+
 
 
 
