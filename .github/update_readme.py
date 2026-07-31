@@ -53,23 +53,21 @@ def update_readme(stats):
     start_marker = "<!--STATS-START-->"
     end_marker = "<!--STATS-END-->"
 
-    stats_block = f"""
-{start_marker}
+    stats_block = f"""{start_marker}
 ### 📊 **GitHub Stats**
 - 👥 Followers: **`{stats['followers']}`**
 - 📦 Public Repositories: **`{stats['repos']}`**
 - 🌟 Earned stars: **`{stats['stars']}`**
 - 💬 Most used languages: **`{stats['languages']}`**
 - 🕓 Latest update: **`{stats['updated']}`**
-{end_marker}
-"""
+{end_marker}"""
 
     if start_marker in readme and end_marker in readme:
         start = readme.index(start_marker)
         end = readme.index(end_marker) + len(end_marker)
         new_readme = readme[:start] + stats_block + readme[end:]
     else:
-        new_readme = readme + "\n" + stats_block
+        new_readme = readme + stats_block
 
     with open(README_PATH, "w", encoding="utf-8") as f:
         f.write(new_readme)
