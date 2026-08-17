@@ -41,7 +41,7 @@ Hoje, canalizo essa visão em projetos que unem **backend, pipelines CI/CD e clo
 
 ---
 
-## &nbsp;&nbsp;&nbsp;<img src="https://i.imgur.com/m6I0jnD.gif" alt="gears spinning" width="200"><br>Relevant repositories
+## &nbsp;&nbsp;&nbsp;<img src=".github/img/gear.gif" alt="gears spinning" width="200"><br>Relevant repositories
 
 (in construction...)
 
