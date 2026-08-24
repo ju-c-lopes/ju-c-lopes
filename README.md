@@ -32,11 +32,11 @@ Hoje, canalizo essa visão em projetos que unem **backend, pipelines CI/CD e clo
 
 <!--STATS-START-->
 ### 📊 **GitHub Stats**
-- 👥 Followers: **`90`**
+- 👥 Followers: **`91`**
 - 📦 Public Repositories: **`100`**
 - 🌟 Earned stars: **`4`**
 - 💬 Most used languages: **`Python, HTML, JavaScript`**
-- 🕓 Latest update: **`2026-08-23 06:25 UTC`**
+- 🕓 Latest update: **`2026-08-24 06:38 UTC`**
 <!--STATS-END-->
 
 ---
