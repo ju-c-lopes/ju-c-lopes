@@ -35,8 +35,8 @@ Hoje, canalizo essa visão em projetos que unem **backend, pipelines CI/CD e clo
 - 👥 Followers: **`91`**
 - 📦 Public Repositories: **`100`**
 - 🌟 Earned stars: **`4`**
-- 💬 Most used languages: **`Python, HTML, JavaScript`**
-- 🕓 Latest update: **`2026-09-24 10:48 UTC`**
+- 💬 Most used languages: **`Python, JavaScript, HTML`**
+- 🕓 Latest update: **`2026-09-25 10:52 UTC`**
 <!--STATS-END-->
 
 ---
