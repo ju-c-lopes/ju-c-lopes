@@ -1,11 +1,19 @@
-"""This script generates a pie chart of programming languages used in the user's GitHub repositories."""
+"""Generate a chart of programming languages used in public repositories."""
+
+import os
+import tempfile
+from filecmp import cmp
 
 import matplotlib.pyplot as plt
-from update_readme import _get_json
+from update_readme import GitHubApiError, fetch_repositories
 
-USERNAME = "ju-c-lopes"
+repos = fetch_repositories()
 
-repos = _get_json(f"https://api.github.com/users/{USERNAME}/repos?per_page=100")
+if any(
+    repo.get("language") is not None and not isinstance(repo.get("language"), str)
+    for repo in repos
+):
+    raise GitHubApiError("GitHub API returned invalid repository data")
 
 langs = {}
 for repo in repos:
@@ -32,4 +40,21 @@ for i, v in enumerate(counts):
     plt.text(v, i, f" {v/total_repos*100:.1f}%", color="#A9A9A9", va="center")
 
 plt.tight_layout()
-plt.savefig("languages.png", transparent=True)
+with tempfile.NamedTemporaryFile(
+    dir=".",
+    prefix=".languages-",
+    suffix=".png",
+    delete=False,
+) as temporary_file:
+    temporary_path = temporary_file.name
+
+try:
+    plt.savefig(temporary_path, transparent=True)
+    if not os.path.exists("languages.png") or not cmp(
+        temporary_path, "languages.png", shallow=False
+    ):
+        os.replace(temporary_path, "languages.png")
+finally:
+    if os.path.exists(temporary_path):
+        os.remove(temporary_path)
+    plt.close()

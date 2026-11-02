@@ -1,26 +1,38 @@
 name: Update GitHub Stats
 
 on:
+    # Atualiza após alterações manuais e também por sincronização agendada.
+    push:
+        branches:
+            - master
     schedule:
         - cron: "0 06 * * *"
     workflow_dispatch:
 
+# Necessário para o job publicar o commit automático no repositório.
+permissions:
+    contents: write
+
 jobs:
     update-readme:
+        if: github.actor != 'github-actions[bot]'
         runs-on: ubuntu-latest
+        env:
+            # Push manual força a data a refletir o commit que disparou o workflow.
+            FORCE_PROFILE_UPDATE: ${{ github.event_name == 'push' }}
+            PROFILE_UPDATE_DATE: ${{ github.event.head_commit.timestamp }}
         steps:
             - name: Checkout repo
-              uses: actions/checkout@v3
+              uses: actions/checkout@v4
 
             - name: Setup Python
-              uses: actions/setup-python@v4
+              uses: actions/setup-python@v5
               with:
                   python-version: "3.x"
 
             - name: Install dependencies
               run: |
-                  pip install requests
-                  pip install matplotlib
+                  python -m pip install requests matplotlib
 
             - name: Generate language chart
               run: python .github/language_chart.py
@@ -32,9 +44,13 @@ jobs:
               run: |
                   git config user.name "github-actions[bot]"
                   git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+                  # Publica README e gráfico juntos, evitando commits parciais.
                   git add languages.png
-                  git commit -m "Update language chart" || echo "No changes"
-                  git push -u origin master
                   git add README.md
-                  git commit -m "Update readme" || echo "No changes"
-                  git push -u origin master
+                  # Execuções sem mudanças não geram commits nem pushes.
+                  if git diff --cached --quiet; then
+                      echo "No profile changes to commit"
+                      exit 0
+                  fi
+                  git commit -m "Update GitHub profile"
+                  git push origin HEAD:master
