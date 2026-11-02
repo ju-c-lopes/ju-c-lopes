@@ -110,7 +110,7 @@ def fetch_github_data():
 
 def _render_stats_block(stats, updated):
     return f"""<!--STATS-START-->
-### 📊 **GitHub Stats**
+## 📊 **GitHub Stats**
 - 👥 Followers: **`{stats['followers']}`**
 - 📦 Public Repositories: **`{stats['repos']}`**
 - 🌟 Earned stars: **`{stats['stars']}`**
